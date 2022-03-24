@@ -2,7 +2,7 @@
 
 /**
  * _strcat - appends src to the dest string
- * @author: muhabeid
+ * @author: wendi-code
  * @dest: string to append by src
  * @src: string to append to dest
  *
