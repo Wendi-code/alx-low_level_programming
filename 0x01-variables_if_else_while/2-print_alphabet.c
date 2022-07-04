@@ -12,7 +12,7 @@
  */
 int main(void)
 {
-	char letter;
+	char hohe;
 
 	for (hohe = 'a'; hohe <= 'z'; hohe++)
 		putchar(hohe);
