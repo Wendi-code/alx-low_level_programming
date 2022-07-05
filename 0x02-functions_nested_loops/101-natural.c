@@ -1,6 +1,6 @@
 /*
  * File: 101-natural.c
- * Auth: Wendimu S Tarekegn
+ * Author: Wendimu S. Tarekegn
  */
 
 #include <stdio.h>
