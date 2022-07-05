@@ -8,7 +8,7 @@
 
 /**
  * main: Prints _putchar followed by a new line
- *
+ * Description: a solution to task 0 of 0x02
  * Return: Always 0
  */
 int main(void)
