@@ -4,6 +4,8 @@
  * Author: Wendimu S. Tarekegn
  */
 
+#include "main.h"
+
 /**
  * main: Prints _putchar followed by a new line
  *
@@ -21,5 +23,5 @@ int main(void)
 	putchar('r');
 	putchar('\n');
 
-	return 0;
+	return (0);
 }
