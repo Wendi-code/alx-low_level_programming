@@ -11,5 +11,6 @@ void print_alphabet(void);
 void print_alphabet_x10(void);
 void print_times_table(int n);
 int is_lowet(int c);
+int _isalpha(int c);
 
 #endif
