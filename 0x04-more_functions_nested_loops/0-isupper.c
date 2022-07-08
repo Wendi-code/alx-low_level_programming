@@ -1,7 +1,8 @@
+
 #include "main.h"
 
 /**
-* _isuppe: this is a function to check upper case alphas
+* _isupper -> this is a function to check upper case alphas
 * @c: an integer paramer
 * Return: something but success
 */
