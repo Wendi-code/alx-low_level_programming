@@ -3,7 +3,7 @@
  * Author: Wendimu S Tarekegn
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
