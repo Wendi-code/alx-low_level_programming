@@ -3,7 +3,7 @@
  * Author: Wendimu S Tarekegn
  */
 
-#include "mainln.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
