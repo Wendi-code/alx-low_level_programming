@@ -1,6 +1,6 @@
 /*
  * File: 0-malloc_checked.c
- * Author: Wendimu S Tarekegn 
+ * Author: Wendimu S Tarekegn
  */
 
 #include "main.h"
