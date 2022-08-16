@@ -4,7 +4,7 @@
 /**
  * File: main.h
  * Author: Wendimu S Tarekegn
- * Desc: Header file containing prototypes for all functions
+ * Description: Header file containing prototypes for all functions
  *       used in the 0x0B-malloc_free directory.
  */
 

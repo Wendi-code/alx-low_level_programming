@@ -4,7 +4,7 @@
 /**
  * File: main.h
  * Auth: Wendimu Sitotaw Tarekegn
- * Desc: Header file containing prototypes for all functions
+ * Description: Header file containing prototypes for all functions
  *       used in the 0x08-recursion directory.
  */
 
